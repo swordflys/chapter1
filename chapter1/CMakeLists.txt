@@ -4,6 +4,6 @@
 cmake_minimum_required (VERSION 3.8)
 
 # 将源代码添加到此项目的可执行文件。
-add_executable (chapter1 "chapter1.cpp" "chapter1.h")
+add_executable (chapter1 "1.23.cpp" "chapter1.h" "Sales_item.h")
 
 # TODO: 如有需要，请添加测试并安装目标。
